@@ -1,6 +1,6 @@
-## Mobile Audit
+## Auditoría Móvil
 
-**MobileAudit** - Análisis estático de seguridad (SAST) y análisis de malware para archivos APK de Android
+**Auditoría Móvil** - Realiza el análisis estático de seguridad (SAST) y análisis de malware para archivos APK de Android
 
 - [Mobile Audit](#mobile-audit)
   - [Componentes](#componentes)
